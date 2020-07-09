@@ -29,7 +29,7 @@ What to learn next:
 - Moree...
 
 ## ⚡ Fun fact
-- I love cats, not the angry ones tho.
+I love cats, not the angry ones tho.
 
 <!--
 **danilhendras/danilhendras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
