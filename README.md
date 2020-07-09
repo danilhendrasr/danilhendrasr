@@ -4,11 +4,11 @@
 
 ## 🔭 I’m currently working on
 
-I'm currently working on my personal portfolio site. Though it's still quite a while before I can consider it finished, the preview is live already at [danilhendra.netlify.app](https://danilhendra.netlify.app).
+I'm currently working on my personal portfolio site. Though it's still quite a while before I can consider it finished, the preview is live already at [danilhendra.netlify.app](https://danilhendra.netlify.app). To be specific, right now I'm working on integrating Netlify CMS to the site for easier content management. 
 
-To be specific, right now I'm working on integrating Netlify CMS to the site for easier content management. Initially I was planning to outsource the blogposts management to using Dev.to's APIs and their webhook, but I think it will be better for me to just blog primarily on my own site.
+Initially I was planning to outsource the blogposts management to utilize Dev.to's APIs and their webhook plus Netlify build trigger endpoint, but I think it will be better for me to just blog primarily on my own site.
 
-Built using [Gridsome](https://gridsome.org)
+Built using [Gridsome](https://gridsome.org), [GSAP](https://greensock.com)
 
 
 ## 🌱 I’m currently learning
