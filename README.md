@@ -2,8 +2,8 @@
 
 My personal portfolio site. Though it's still quite a while before I can consider it finished, the preview is live already at [danilhendra.netlify.app](https://danilhendra.netlify.app). To be specific, right now I'm working on integrating Netlify CMS to the site for easier content management. 
 
-Fun fact:
-Initially I was planning to outsource the blogposts management to utilize [Dev.to's webhooks](https://docs.dev.to/api/#tag/webhooks) to hit the site's Netlify build trigger endpoint everytime I do something, but I think it will be better for me to just blog primarily on my own site.
+**Fun fact:**
+Initially I was planning to outsource the blogposts management to using [Dev.to](https://dev.to) and utilize [their webhooks](https://docs.dev.to/api/#tag/webhooks) to hit the site's Netlify build trigger endpoint everytime I do something, but I think it will be better for me to just blog primarily on my own site.
 
 Built using [Gridsome](https://gridsome.org) & [GSAP](https://greensock.com)
 
