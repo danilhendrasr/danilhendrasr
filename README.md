@@ -5,9 +5,11 @@ I'm an avid JavaScript user. Currently working on a portfolio site using [Nuxt](
 I'm currently learning [Vue.js](https://vuejs.org) and [Nuxt](https://nuxtjs.org).
 
 Next up in my to-learn list:
-- JavaScript / Vue Unit Testing
-- Python
+- React.js
+- TypeScript
 - GraphQL
+- Unit Testing
+- Golang
 - Docker
 
 <!--
