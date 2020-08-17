@@ -1,8 +1,7 @@
 ### Hi, I'm Danil Hendra
 2nd-year CS student at [University of National Development, East Java](https://upnjatim.ac.id)
 
-I'm an avid JavaScript user. Currently working on a portfolio site using [Nuxt](https://nuxtjs.org).<br>
-I'm currently learning [Vue.js](https://vuejs.org) and [Nuxt](https://nuxtjs.org).
+I'm an avid JavaScript user. I'm currently learning [Vue.js](https://vuejs.org) and [Nuxt](https://nuxtjs.org).
 
 Upcoming skills:
 - React.js
