@@ -4,8 +4,6 @@
 I'm an avid JavaScript user. I'm currently learning [Vue.js](https://vuejs.org) and [Nuxt](https://nuxtjs.org).
 
 Upcoming skills:
-- React.js
-- TypeScript
 - Unit Testing
 
 
