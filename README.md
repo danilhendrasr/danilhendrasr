@@ -1,11 +1,5 @@
-### Hi, I'm Danil Hendra
-2nd-year CS student at [University of National Development, East Java](https://upnjatim.ac.id)
-
-I'm an avid JavaScript user. I'm currently learning [Vue.js](https://vuejs.org) and [Nuxt](https://nuxtjs.org).
-
-Upcoming skills:
-- Unit Testing
-
+# Hi 👋, I'm Danil Hendra
+I'm a 2nd-year CS student at [University of National Development, East Java](https://upnjatim.ac.id). I'm all about JavaScript, currently meddling around frontend frameworks, particularly Vue and React. I'm actively contributing to [nuxtjs.org](https://github.com/nuxt/nuxtjs.org) as a translator.
 
 <!--
 **danilhendras/danilhendras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
