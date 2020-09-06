@@ -1,5 +1,5 @@
 # Hi 👋, I'm Danil Hendra
-I'm a 2nd-year CS student at [University of National Development, East Java](https://upnjatim.ac.id). I'm all about JavaScript, currently meddling around frontend frameworks, particularly Vue and React. I'm actively contributing to [nuxtjs.org](https://github.com/nuxt/nuxtjs.org) as a translator.
+I'm a 2nd-year CS student at [University of National Development, East Java](https://upnjatim.ac.id). I'm all about JavaScript and currently meddling around frontend frameworks, particularly Vue and React. I'm actively contributing to [nuxtjs.org](https://github.com/nuxt/nuxtjs.org) as a translator. As for projects, I'm currently busy with an event registration website for my campus' software engineering education team.
 
 <!--
 **danilhendras/danilhendras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
