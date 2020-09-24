@@ -1,6 +1,7 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Danil
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Danil
 I'm a 2nd-year CS major at [University of National Development, East Java](https://upnjatim.ac.id). I'm all about JavaScript, currently meddling around frontend frameworks (Vue and React in particular). I'm actively contributing to [nuxtjs.org](https://github.com/nuxt/nuxtjs.org) as a translator. As for projects, I'm currently busy with an [event registration website](https://github.com/pps-ti/web-pendaftaran-seed) for my department's software engineering education team.
 
+## ✨ Lil' Stats
 <a href="https://github.com/danilhendras/danilhendras">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilhendras&hide=javascript&theme=react" />
 </a>
