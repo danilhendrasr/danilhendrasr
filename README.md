@@ -1,9 +1,12 @@
-# Hi 👋 I'm Danil Hendra Suryawan
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Danil
 I'm a 2nd-year CS major at [University of National Development, East Java](https://upnjatim.ac.id). I'm all about JavaScript, currently meddling around frontend frameworks (Vue and React in particular). I'm actively contributing to [nuxtjs.org](https://github.com/nuxt/nuxtjs.org) as a translator. As for projects, I'm currently busy with an [event registration website](https://github.com/pps-ti/web-pendaftaran-seed) for my department's software engineering education team.
 
-[![Danil's github stats](https://github-readme-stats.vercel.app/api?username=danilhendras)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilhendras)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/danilhendras/danilhendras">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilhendras&hide=javascript&theme=react" />
+</a>
+<a href="https://github.com/danilhendras/danilhendras">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danilhendras&show_icons=true&theme=react&line_height=20" />
+</a> 
 
 <!--
 **danilhendras/danilhendras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
