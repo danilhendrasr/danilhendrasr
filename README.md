@@ -26,16 +26,13 @@ I'm a 2nd-year CS major at [University of National Development, East Java](https
 <details>
   <summary>✨ Fun Facts</summary>
   
-  ## Lil' Stats
+  
   <a href="https://github.com/danilhendras/danilhendras">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilhendras&layout=compact" />
   </a>
   <a href="https://github.com/danilhendras/danilhendras">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=danilhendras&show_icons=true&hide=stars" />
   </a>
-  
-  ## Another one
-  I love cats, not the angry ones tho
 </details>
 
 <!--
