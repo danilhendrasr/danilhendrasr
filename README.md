@@ -17,7 +17,7 @@ I'm a 2nd-year CS major at [University of National Development, East Java](https
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=danilhendras&show_icons=true&hide=stars&line_height=24&count_private=true&custom_title=GitHub Stats" />
   </a>
 
-## Reach me
+## Reach out to me
 [![](http://img.shields.io/badge/-LinkedIn-lightgrey?logo=linkedin&style=flat-square&logoColor=white&color=0077B5)](https://linkedin.com/in/danilhendra)
 [![](http://img.shields.io/badge/-Twitter-lightgrey?logo=twitter&style=flat-square&logoColor=white&color=1DA1F2)](https://twitter.com/danilhendras)
 [![](http://img.shields.io/badge/-mail-lightgrey?logo=gmail&style=flat-square&logoColor=white&color=D14836)](mailto:danilhendrasr@gmail.com)
