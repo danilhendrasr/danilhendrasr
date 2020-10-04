@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Danil
-I'm a 2nd-year CS major at [University of National Development, East Java](https://upnjatim.ac.id). I'm all about JavaScript, currently meddling around frontend frameworks (Vue and React in particular). I'm actively contributing to [nuxtjs.org](https://github.com/nuxt/nuxtjs.org) as a translator. As for projects, I'm currently busy learning [Next.js](https://nextjs.org).
+I'm a 2nd-year CS major at [University of National Development, East Java](https://upnjatim.ac.id). I'm all about JavaScript, currently meddling around frontend frameworks (Vue and React in particular). I'm actively contributing to [nuxtjs.org](https://github.com/nuxt/nuxtjs.org) as a translator. I'm currently busy learning [Next.js](https://nextjs.org).
 
 ## ✨ Lil' Stats
 <a href="https://github.com/danilhendras/danilhendras">
