@@ -19,9 +19,9 @@ I'm a 2nd-year CS major at [University of National Development, East Java](https
 ![](https://img.shields.io/badge/-TypeScript-lightgrey?logo=typescript&style=flat-square&logoColor=white&color=007ACC) -->
 
 ## 🤙 Reach me
-[![](http://img.shields.io/badge/-LinkedIn-lightgrey?logo=linkedin&style=for-the-badge&logoColor=white&color=0077B5)](https://linkedin.com/in/danilhendra)
-[![](http://img.shields.io/badge/-Twitter-lightgrey?logo=twitter&style=for-the-badge&logoColor=white&color=1DA1F2)](https://twitter.com/danilhendras)
-[![](http://img.shields.io/badge/-mail-lightgrey?logo=gmail&style=for-the-badge&logoColor=white&color=D14836)](mailto:danilhendrasr@gmail.com)
+[![](http://img.shields.io/badge/-LinkedIn-lightgrey?logo=linkedin&style=flat-square&logoColor=white&color=0077B5)](https://linkedin.com/in/danilhendra)
+[![](http://img.shields.io/badge/-Twitter-lightgrey?logo=twitter&style=flat-square&logoColor=white&color=1DA1F2)](https://twitter.com/danilhendras)
+[![](http://img.shields.io/badge/-mail-lightgrey?logo=gmail&style=flat-square&logoColor=white&color=D14836)](mailto:danilhendrasr@gmail.com)
 
 <details>
   <summary>✨ Fun Facts</summary>
