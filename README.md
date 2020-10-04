@@ -11,10 +11,10 @@ I'm a 2nd-year CS major at [University of National Development, East Java](https
 ## Lil' Stats
 
   <a href="https://github.com/danilhendras/danilhendras">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilhendras&layout=compact&theme=graywhite" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilhendras&layout=compact&theme=graywhite&hide_border=true" />
   </a>
   <a href="https://github.com/danilhendras/danilhendras">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danilhendras&show_icons=true&hide=stars&line_height=24&theme=graywhite&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danilhendras&show_icons=true&hide=stars&line_height=24&theme=graywhite&count_private=true&hide_border=true&custom_title=GitHub Stats" />
   </a>
 
 ## Reach me
