@@ -2,14 +2,11 @@
 I'm a 2nd-year CS major at [University of National Development, East Java](https://upnjatim.ac.id). I'm all about JavaScript, currently meddling around frontend frameworks (Vue and React in particular). I'm actively contributing to [nuxtjs.org](https://github.com/nuxt/nuxtjs.org) as a translator. I'm currently busy learning [Next.js](https://nextjs.org).
 
 ## Inside my toolbox
-![](https://img.shields.io/badge/-SASS-lightgrey?logo=sass&style=flat-square&logoColor=white&color=CC6699)
-![](https://img.shields.io/badge/-JavaScript-lightgrey?logo=javascript&style=flat-square&logoColor=333&color=F7DF1E)
-![](https://img.shields.io/badge/-Vue-lightgrey?logo=vue.js&style=flat-square&logoColor=white&color=4FC08D)
-![](https://img.shields.io/badge/-Nuxt.js-lightgrey?logo=nuxt.js&style=flat-square&logoColor=white&color=00C58E)
-![](https://img.shields.io/badge/-React-lightgrey?logo=react&style=flat-square&logoColor=333&color=61DAFB)
-![](https://img.shields.io/badge/-Next.js-lightgrey?logo=next.js&style=flat-square&logoColor=white&color=000000)
-![](https://img.shields.io/badge/-Node.js-lightgrey?logo=node.js&style=flat-square&logoColor=white&color=339933)
-![](https://img.shields.io/badge/-TypeScript-lightgrey?logo=typescript&style=flat-square&logoColor=white&color=007ACC)
+| Sub-field | Tools |
+| -- | -- |
+| Frontend | ![](https://img.shields.io/badge/-SASS-lightgrey?logo=sass&style=flat-square&logoColor=white&color=CC6699) ![](https://img.shields.io/badge/-JavaScript-lightgrey?logo=javascript&style=flat-square&logoColor=333&color=F7DF1E) ![](https://img.shields.io/badge/-Vue-lightgrey?logo=vue.js&style=flat-square&logoColor=white&color=4FC08D) ![](https://img.shields.io/badge/-Nuxt.js-lightgrey?logo=nuxt.js&style=flat-square&logoColor=white&color=00C58E) ![](https://img.shields.io/badge/-React-lightgrey?logo=react&style=flat-square&logoColor=333&color=61DAFB) ![](https://img.shields.io/badge/-Next.js-lightgrey?logo=next.js&style=flat-square&logoColor=white&color=000000) |
+| Backend | ![](https://img.shields.io/badge/-Node.js-lightgrey?logo=node.js&style=flat-square&logoColor=white&color=339933) |
+| Others | ![](https://img.shields.io/badge/-TypeScript-lightgrey?logo=typescript&style=flat-square&logoColor=white&color=007ACC) |
 
 <!-- #### Languages
 ![](https://img.shields.io/badge/-Python-lightgrey?logo=python&style=flat-square&logoColor=white&color=3776AB)
