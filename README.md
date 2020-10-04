@@ -2,7 +2,6 @@
 I'm a 2nd-year CS major at [University of National Development, East Java](https://upnjatim.ac.id). I'm all about JavaScript, currently meddling around frontend frameworks (Vue and React in particular). I'm actively contributing to [nuxtjs.org](https://github.com/nuxt/nuxtjs.org) as a translator. I'm currently busy learning [Next.js](https://nextjs.org).
 
 ## 🛠️ My toolbox
-### Frontend
 ![](https://img.shields.io/badge/-HTML-lightgrey?logo=html5&style=flat-square&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/-CSS-lightgrey?logo=html5&style=flat-square&logoColor=white&color=1572B6&labelColor=1572B6)
 ![](https://img.shields.io/badge/-JavaScript-lightgrey?logo=javascript&style=flat-square&logoColor=333&color=F7DF1E)
@@ -10,8 +9,6 @@ I'm a 2nd-year CS major at [University of National Development, East Java](https
 ![](https://img.shields.io/badge/-Nuxt.js-lightgrey?logo=nuxt.js&style=flat-square&logoColor=white&color=00C58E)
 ![](https://img.shields.io/badge/-React-lightgrey?logo=react&style=flat-square&logoColor=333&color=61DAFB)
 ![](https://img.shields.io/badge/-Next.js-lightgrey?logo=next.js&style=flat-square&logoColor=white&color=000000)
-
-### Backend
 ![](https://img.shields.io/badge/-Node.js-lightgrey?logo=node.js&style=flat-square&logoColor=white&color=339933)
 
 <!-- #### Languages
