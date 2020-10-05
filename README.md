@@ -8,15 +8,6 @@ I'm a 2nd-year CS major at [University of National Development, East Java](https
 | Backend | ![](https://img.shields.io/badge/-Node.js-lightgrey?logo=node.js&style=flat&logoColor=white&color=339933) |
 | Languages | ![](https://img.shields.io/badge/-Python-lightgrey?logo=python&style=flat&logoColor=white&color=3776AB) ![](https://img.shields.io/badge/-TypeScript-lightgrey?logo=typescript&style=flat&logoColor=white&color=007ACC)  |
 
-## Lil' Stats
-
-  <a href="https://github.com/danilhendras/danilhendras">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilhendras&layout=compact" />
-  </a>
-  <a href="https://github.com/danilhendras/danilhendras">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danilhendras&show_icons=true&hide=stars&line_height=24&count_private=true&custom_title=GitHub Stats" />
-  </a>
-
 ## Reach out to me
 [![](http://img.shields.io/badge/-LinkedIn-lightgrey?logo=linkedin&style=flat&logoColor=white&color=0077B5)](https://linkedin.com/in/danilhendra)
 [![](http://img.shields.io/badge/-Twitter-lightgrey?logo=twitter&style=flat&logoColor=white&color=1DA1F2)](https://twitter.com/danilhendras)
