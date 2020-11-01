@@ -6,7 +6,7 @@ I'm currently a mobile engineer intern (React Native, TypeScript).
 ## Inside my toolbox
 | Sub-field | Tools |
 | -- | -- |
-| Frontend | ![](https://img.shields.io/badge/-SASS-lightgrey?logo=sass&style=flat&logoColor=white&color=CC6699) ![](https://img.shields.io/badge/-JavaScript-lightgrey?logo=javascript&style=flat&logoColor=333&color=F7DF1E) ![](https://img.shields.io/badge/-Vue-lightgrey?logo=vue.js&style=flat&logoColor=white&color=4FC08D) ![](https://img.shields.io/badge/-Nuxt.js-lightgrey?logo=nuxt.js&style=flat&logoColor=white&color=00C58E) ![](https://img.shields.io/badge/-React-lightgrey?logo=react&style=flat&logoColor=333&color=61DAFB) ![](https://img.shields.io/badge/-Next.js-lightgrey?logo=next.js&style=flat&logoColor=white&color=000000) |
+| Frontend | ![](https://img.shields.io/badge/-SASS-lightgrey?logo=sass&style=flat&logoColor=white&color=CC6699) ![](https://img.shields.io/badge/-JavaScript-lightgrey?logo=javascript&style=flat&logoColor=333&color=F7DF1E) ![](https://img.shields.io/badge/-Vue.js-lightgrey?logo=vue.js&style=flat&logoColor=white&color=4FC08D) ![](https://img.shields.io/badge/-Nuxt.js-lightgrey?logo=nuxt.js&style=flat&logoColor=white&color=00C58E) ![](https://img.shields.io/badge/-React.js-lightgrey?logo=react&style=flat&logoColor=333&color=61DAFB) ![](https://img.shields.io/badge/-Next.js-lightgrey?logo=next.js&style=flat&logoColor=white&color=000000) |
 | Backend | ![](https://img.shields.io/badge/-Node.js-lightgrey?logo=node.js&style=flat&logoColor=white&color=339933) |
 | Languages | ![](https://img.shields.io/badge/-Python-lightgrey?logo=python&style=flat&logoColor=white&color=3776AB) ![](https://img.shields.io/badge/-TypeScript-lightgrey?logo=typescript&style=flat&logoColor=white&color=007ACC)  |
 
