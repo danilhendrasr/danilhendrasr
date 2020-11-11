@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Danil
 I'm a 2nd-year CS major at [University of National Development, East Java](https://upnjatim.ac.id). <br>
-I'm all about JavaScript, currently meddling around frontend frameworks (Vue and React in particular). <br>
-I'm currently a mobile engineer intern (React Native, TypeScript).
+I'm all about JavaScript (and TypeScript), currently meddling around frontend frameworks (Vue and React in particular). <br>
+I'm currently a mobile engineer intern working with React Native and TypeScript.
 
 ## Inside my toolbox
 | Sub-field | Tools |
