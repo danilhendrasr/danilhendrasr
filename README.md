@@ -3,7 +3,7 @@ I'm a 2nd-year CS major at [UPN Jawa Timur](https://upnjatim.ac.id). <br>
 I'm all about JavaScript (and TypeScript), likes to meddle around in React. <br>
 I'm a mobile engineer working with React Native and TypeScript.
 
-## Inside my toolbox
+## Toolbelt
 | Sub-field | Tools |
 | -- | -- |
 | Frontend | ![](https://img.shields.io/badge/-SASS-lightgrey?logo=sass&style=flat&logoColor=white&color=CC6699) ![](https://img.shields.io/badge/-Vue-lightgrey?logo=vue.js&style=flat&logoColor=white&color=4FC08D) ![](https://img.shields.io/badge/-React-lightgrey?logo=react&style=flat&logoColor=333&color=61DAFB) |
