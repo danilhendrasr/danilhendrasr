@@ -6,7 +6,7 @@ My name is Danil Hendra Suryawan.
 
 🔭 Currently working on a side project that will get me into Google.
 
-❤️ Problem solving, software engineering, and cats.
+❤️ Problem solving, software engineering, cats.
 
 🛠️ JS & TS | React | Node.js
 
