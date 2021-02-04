@@ -13,7 +13,7 @@ My name is Danil Hendra Suryawan.
 [![](http://img.shields.io/badge/-Twitter-lightgrey?logo=twitter&style=flat&logoColor=white&color=1DA1F2)](https://twitter.com/danilhendras)
 [![](http://img.shields.io/badge/-mail-lightgrey?logo=gmail&style=flat&logoColor=white&color=D14836)](mailto:danilhendrasr@gmail.com)
 
-⚡ Fun fact: I'm a rockstar 10x dev because I use Vim. <sup>*Well, technically I use VS Code, but I have Vim extension installed so you better admit that I'm awesome*</sup>
+⚡ Fun fact: I'm a rockstar 10x dev because I use Vim. <br> <sub>*Well, technically I use VS Code, but I have Vim extension installed so you better admit that I'm an awesome developer.*</sub>
 
 <!--
 **danilhendras/danilhendras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
