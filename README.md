@@ -4,13 +4,13 @@ My name is Danil Hendra Suryawan.
 
 📖 Currently a 2nd-year Computer Science major at [UPN Jawa Timur](https://upnjatim.ac.id).
 
-🔭 Currently working on a side project that will got me into Google.
+🔭 Currently working on a side project that will get me into Google.
 
-❤️ Problem solving, software engineering, logical thinking.
+❤️ Problem solving, software engineering, and cats.
 
 🛠️ JS & TS | React | Node.js
 
-⚡ Fun fact: I'm a rockstar 10X developer because I use Vim. <br> <sub>*Well, technically I use VS Code, but I have Vim extension installed so you better admit that I'm awesome.*</sub>
+⚡ Fun fact: I'm a super awesome 10X developer because I use Vim. <br> <sub>*Well, technically I use VS Code, but I have Vim extension installed so you better admit that I'm awesome.*</sub>
 
 📫 Hit me up at:
 
