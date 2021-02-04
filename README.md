@@ -6,7 +6,7 @@ My name is Danil Hendra Suryawan.
 
 ❤️ Problem solving, software engineering, cats.
 
-🛠️ Primary tools: JS & TS | React | Node.js
+🛠️ JS & TS | React | Node.js
 
 ⚡ Fun fact: I'm a 10x, rockstar developer 'cause I use Vim. <br>
 <sub>*Well, technically I use VS Code, but I have Vim extension installed so you better admit that I'm awesome.*</sub>
