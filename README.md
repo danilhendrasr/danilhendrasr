@@ -4,13 +4,11 @@ My name is Danil Hendra Suryawan.
 
 📖 Currently a 2nd-year Computer Science major at [UPN Jawa Timur](https://upnjatim.ac.id).
 
-❤️ Cats, problem solving, software engineering, myself.
+❤️ Cats, problem solving, software engineering, Vim.
 
 🛠️ JS & TS | React | Node.js
 
-⚡ Fun fact: I use Vim. <br>
-<sub>*So that makes me an awesome 10x rockter dev. </sub> <br>
-<sub>*Well, technically I use VS Code, but I have Vim extension installed so you better admit that I'm awesome.*</sub>
+⚡ Fun fact: I use Vim
 
 📫 Hit me up at:
 
