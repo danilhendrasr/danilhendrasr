@@ -8,7 +8,7 @@ My name is Danil Hendra Suryawan.
 
 🛠️ JS & TS | React | Node.js
 
-⚡ Fun fact: I'm a 10x, rockstar developer 'cause I use Vim. <br>
+⚡ Fun fact: I use Vim. So that makes me a an awesome 10x rockter dev and you can't change my mind about that. <br>
 <sub>*Well, technically I use VS Code, but I have Vim extension installed so you better admit that I'm awesome.*</sub>
 
 📫 Hit me up at:
