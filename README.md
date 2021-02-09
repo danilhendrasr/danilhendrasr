@@ -4,7 +4,7 @@ My name is Danil Hendra Suryawan.
 
 📖 Currently a 2nd-year Computer Science major at [UPN Jawa Timur](https://upnjatim.ac.id).
 
-❤️ Cats, problem solving, software engineering, Vim.
+❤️ Problem solving, software engineering, cats.
 
 🛠️ JS & TS | React | Node.js
 
