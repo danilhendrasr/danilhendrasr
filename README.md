@@ -2,7 +2,7 @@
 
 My name is Danil Hendra Suryawan.
 
-📖 Currently a 2nd-year Computer Science major at [UPN Jawa Timur](https://upnjatim.ac.id).
+📖 Currently a 2nd-year Computer Science major at [UPN Veteran Jawa Timur](https://upnjatim.ac.id).
 
 ❤️ Problem solving, software engineering, cats.
 
