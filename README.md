@@ -9,7 +9,7 @@ My name is Danil Hendra Suryawan.
 🛠️ JS & TS | React | Node.js
 
 ⚡ Fun fact: I use Vim. <br>
-<sub>Yes, I'm bragging.</sub>
+<sub>I'm awesome.</sub>
 
 📫 Hit me up at:
 
