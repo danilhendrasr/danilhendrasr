@@ -6,7 +6,7 @@ My name is Danil Hendra Suryawan.
 
 ❤️ Love: Problem solving, software engineering, open source, cats.
 
-🛠️ Tools: JS & TS | React | Node.js
+🛠️ Main tools: JS & TS | React | Node.js
 
 📫 Hit me up at:
 
