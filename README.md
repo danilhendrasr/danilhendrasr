@@ -1,6 +1,4 @@
-# Hi 👋
-
-My name is Danil Hendra Suryawan.
+# Hi, I'm Danil 👋
 
 📖 Occupation: 2nd-year Computer Science major at [UPN Veteran Jawa Timur](https://upnjatim.ac.id).
 
