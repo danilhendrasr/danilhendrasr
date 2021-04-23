@@ -1,6 +1,6 @@
 # Hi, I'm Danil 👋
 
-📖 Occupation: 2nd-year Computer Science major at [UPN Veteran Jawa Timur](https://upnjatim.ac.id).
+📖 Occupation: 2nd-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id).
 
 ❤️ Love: Problem solving, software engineering, open source, cats.
 
