@@ -1,6 +1,6 @@
 # Hi, I'm Danil 👋
 
-📖 Occupation: 2nd-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id).
+📖 Occupation: 2nd-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id) | Frontend Engineer at [Alinamed Indonesia](https://github.com/Alinamed-Indonesia)
 
 ❤️ Love: Problem solving, software engineering, open source, cats.
 
