@@ -2,7 +2,7 @@
 
 📖 Occupation: 2nd-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id) | Frontend Engineer at [Alinamed Indonesia](https://github.com/Alinamed-Indonesia)
 
-❤️ Love: Problem solving, software engineering, open source, cats.
+❤️ Love: Software engineering, open source, cats.
 
 🛠️ Main tools: JS & TS | React | Node.js
 
