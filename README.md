@@ -4,7 +4,9 @@
 
 ❤️ Love: Software engineering, open source, cats.
 
-🛠️ Main tools: JS & TS | React | Node.js
+🛠️ Tools:
+Day to day job? TypeScript & React.
+Hobby? I pretty much use just about anything, from Java, to C++, to Python and beyond. Anything that interests me.
 
 📫 Hit me up at:
 
