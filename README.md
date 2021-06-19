@@ -8,7 +8,7 @@
 
 Day to day job? TypeScript & React.
 
-Hobby? I pretty much use just about anything, from Java, to C++, to Python and beyond. Anything that interests me.
+Hobby? I pretty much use just about anything, from Java, to C++, to Python and beyond. Anything that interests me or anything that suits the job.
 
 📫 Hit me up at:
 
