@@ -10,7 +10,10 @@ Day to day job? TypeScript & React.
 
 Hobby? I pretty much use just about anything, from Java, to C++, to Python and beyond. Anything that interests me or anything that suits the job.
 
-📫 Hit me up at:
+🔭 **Currently working on**:
+An interpreter for a programming language, written in Java.
+
+📫 **Hit me up at**:
 
 [![](http://img.shields.io/badge/-LinkedIn-lightgrey?logo=linkedin&style=flat&logoColor=white&color=0077B5)](https://linkedin.com/in/danilhendrasr) 
 [![](http://img.shields.io/badge/-Twitter-lightgrey?logo=twitter&style=flat&logoColor=white&color=1DA1F2)](https://twitter.com/danilhendrasr) 
