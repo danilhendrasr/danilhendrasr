@@ -4,14 +4,12 @@
 
 ❤️ **Love**: Software engineering, open source, cats.
 
-🛠️ **Tools**:
-
-Day to day job? TypeScript & React.
-
-Hobby? I pretty much use just about anything, from Java, to C++, to Python and beyond. Anything that interests me or anything that suits the job.
-
 🔭 **Currently working on**:
 An interpreter for a programming language, written in Java.
+
+🛠️ **Tools**:<br>
+Day to day job? TypeScript & React.<br>
+Hobby? I pretty much use just about anything, from Java, to C++, to Python and beyond. Anything that interests me or anything that suits the job.
 
 📫 **Hit me up at**:
 
