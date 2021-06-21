@@ -1,10 +1,13 @@
 # Hi, I'm Danil 👋
 
-📖 **Occupation**: 2nd-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id) | Frontend Engineer at [Alinamed Indonesia](https://github.com/Alinamed-Indonesia)
+📖 **Occupation**: <br>
+2nd-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id). <br>
+Frontend Engineer at [Alinamed Indonesia](https://www.linkedin.com/company/alinamed/).
 
-❤️ **Love**: Software engineering, open source, cats.
+❤️ **Love**: <br>
+Software engineering, open source, cats.
 
-🔭 **Currently working on**:
+🔭 **Currently working on**: <br>
 An interpreter for a programming language, written in Java.
 
 🛠️ **Tools**:<br>
