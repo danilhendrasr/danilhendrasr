@@ -4,7 +4,7 @@
 2nd-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id). <br>
 Frontend Engineer at [Alinamed Indonesia](https://www.linkedin.com/company/alinamed/).
 
-❤️ **Love**: <br>
+❤️ **Likes**: <br>
 Software engineering, open source, cats.
 
 🔭 **Currently working on**: <br>
