@@ -17,7 +17,6 @@ Hobby? I pretty much use just about anything, from Java, to C++, to Python and b
 📫 **Hit me up at**:
 
 [![](http://img.shields.io/badge/-LinkedIn-lightgrey?logo=linkedin&style=flat&logoColor=white&color=0077B5)](https://linkedin.com/in/danilhendrasr) 
-[![](http://img.shields.io/badge/-Twitter-lightgrey?logo=twitter&style=flat&logoColor=white&color=1DA1F2)](https://twitter.com/danilhendrasr) 
 [![](http://img.shields.io/badge/-Email-lightgrey?logo=gmail&style=flat&logoColor=white&color=D14836)](mailto:danilhendrasr@gmail.com)
 
 <!--
