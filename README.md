@@ -12,7 +12,7 @@ An interpreter for Lox language (Java)
 
 🛠️ **Tools**:<br>
 **Day job**: TypeScript & React.<br>
-**Hobby**: I pretty much use just about anything, from Java, C++, Rust, Python and beyond. Anything that interests me or anything that suits the job.
+**Hobby**: I pretty much use just about anything, such as Java, C++, Rust, Python, and beyond. Anything that interests me or anything that suits the job.
 
 📫 **Hit me up at**:
 
