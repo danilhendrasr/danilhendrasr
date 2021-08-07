@@ -8,11 +8,11 @@ Frontend Engineer at [Alinamed Indonesia](https://www.linkedin.com/company/alina
 Software engineering, open source, cats.
 
 🔭 **Currently working on**: <br>
-An interpreter for a programming language, written in Java.
+An interpreter for Lox language (Java)
 
 🛠️ **Tools**:<br>
-Day to day job? TypeScript & React.<br>
-Hobby? I pretty much use just about anything, from Java, to C++, to Python and beyond. Anything that interests me or anything that suits the job.
+**Day job**: TypeScript & React.<br>
+**Hobby**: I pretty much use just about anything, from Java, C++, Rust, Python and beyond. Anything that interests me or anything that suits the job.
 
 📫 **Hit me up at**:
 
