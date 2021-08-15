@@ -2,7 +2,7 @@
 
 📖 **Occupation**: <br>
 2nd-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id). <br>
-Frontend Engineer at [Alinamed Indonesia](https://www.linkedin.com/company/alinamed/).
+Frontend Engineer in an early-stage startup based in Surabaya, Indonesia.
 
 ❤️ **Likes**: <br>
 Software engineering, open source, cats.
