@@ -1,7 +1,7 @@
 # Hi, I'm Danil 👋
 
 📖 **Occupation**: <br>
-2nd-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id). <br>
+3rd-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id). <br>
 Frontend Engineer in an early-stage startup based in Surabaya, Indonesia.
 
 ❤️ **Likes**: <br>
