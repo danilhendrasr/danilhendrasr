@@ -8,7 +8,7 @@ Frontend Engineer in an early-stage startup based in Surabaya, Indonesia.
 Software engineering, open source, cats.
 
 🛠️ **Tools**:<br>
-**Day job**: TypeScript & React.<br>
+**Day job**: TypeScript, React, and React Native.<br>
 **Hobby**: I pretty much use just about anything, Java, C++, Rust, Go, Python, and anything that interests me or anything that suits the job.
 
 📫 **Hit me up at**:
