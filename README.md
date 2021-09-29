@@ -9,7 +9,7 @@ Software engineering, open source, cats.
 
 🛠️ **Tools**:<br>
 **Day job**: TypeScript, React, and React Native.<br>
-**Hobby**: I pretty much use just about anything, Java, C++, Rust, Go, Python, and anything that interests me or anything that suits the job.
+**Hobby**: I pretty much use just about anything, Java, C++, Rust, Go, Python, Dart, and anything that interests me.
 
 📫 **Hit me up at**:
 
