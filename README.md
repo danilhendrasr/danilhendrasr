@@ -2,7 +2,7 @@
 
 📖 **Occupation**: <br>
 3rd-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id). <br>
-Frontend Engineer in an early-stage startup based in Surabaya, Indonesia.
+Software Engineer in an early-stage startup based in Surabaya, Indonesia.
 
 ❤️ **Likes**: <br>
 Software engineering, open source, cats.
