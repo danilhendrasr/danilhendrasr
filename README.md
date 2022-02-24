@@ -8,8 +8,8 @@ Software Engineer Intern at [Nodeflux](https://github.com/nodefluxio).
 Software engineering, open source, cats.
 
 🛠️ **Tools**:<br>
-**Day job**: TypeScript, React, and React Native.<br>
-**Hobby**: I like to tinker around with programming languages, Java, C++, Rust, Go, Python, Dart, or anything that interests me.
+**Languages**: TypeScript, Rust, Go, Java<br>
+**Frameworks**: React, React Native<br>
 
 📫 **Hit me up at**:
 
