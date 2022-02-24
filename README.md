@@ -2,7 +2,7 @@
 
 📖 **Occupation**: <br>
 3rd-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id). <br>
-Software Engineer in an early-stage startup based in Surabaya, Indonesia.
+Software Engineer Intern at [Nodeflux](https://github.com/nodefluxio).
 
 ❤️ **Likes**: <br>
 Software engineering, open source, cats.
