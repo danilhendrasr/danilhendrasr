@@ -5,7 +5,7 @@
 Software Engineer Intern at [Nodeflux](https://github.com/nodefluxio).
 
 ❤️ **Likes**: <br>
-Software engineering, open source, cats.
+Software engineering, open source, cats, green CI pipeline.
 
 🛠️ **Tools**:<br>
 **Languages**: JavaScript, TypeScript, Python, Rust, Go, Java, and a little bit of C++<br>
