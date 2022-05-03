@@ -26,6 +26,8 @@ Software engineering, open source, cats, and green CI pipeline.
 [![](http://img.shields.io/badge/-Email-lightgrey?logo=gmail&style=flat&logoColor=white&color=D14836)](mailto:danilhendrasr@gmail.com)
 [![](http://img.shields.io/badge/-Twitter-lightgrey?logo=twitter&style=flat&logoColor=white&color=0077B5)](https://twitter.com/danilhendrasr)
 
+##### Oh and um, I'm open to work opportunities by the way, preferably remote 😉
+
 <!--
 **danilhendras/danilhendras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
