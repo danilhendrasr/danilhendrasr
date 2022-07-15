@@ -1,7 +1,7 @@
 # Hi, I'm Danil 👋
 
 #### 📖 **Occupation**
-3rd-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id). <br>
+4th-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id). <br>
 Software Engineer Intern at [Nodeflux](https://github.com/nodefluxio).
 
 #### ❤️ **Likes**
