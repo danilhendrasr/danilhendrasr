@@ -2,7 +2,6 @@
 
 #### 📖 **Occupation**
 4th-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id). <br>
-Software Engineer Intern at [Nodeflux](https://github.com/nodefluxio).
 
 #### ❤️ **Likes**
 Open source, cats, green CI pipeline, and clean code bases.
