@@ -2,6 +2,7 @@
 
 #### 📖 **Occupation**
 4th-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id). <br>
+Software Engineer intern at [Aksamedia](https://aksamedia.co.id/).
 
 #### ❤️ **Likes**
 Open source, cats, green CI pipeline, and clean code bases.
@@ -27,8 +28,6 @@ Even more so if we're talking about building a project in Rust.
 [![](http://img.shields.io/badge/-LinkedIn-lightgrey?logo=linkedin&style=flat&logoColor=white&color=0077B5)](https://linkedin.com/in/danilhendrasr) 
 [![](http://img.shields.io/badge/-Email-lightgrey?logo=gmail&style=flat&logoColor=white&color=D14836)](mailto:danilhendrasr@gmail.com)
 [![](http://img.shields.io/badge/-Twitter-lightgrey?logo=twitter&style=flat&logoColor=white&color=0077B5)](https://twitter.com/danilhendrasr)
-
-##### Oh and um, I'm open to work opportunities by the way, preferably remote 😉
 
 <!--
 **danilhendras/danilhendras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
