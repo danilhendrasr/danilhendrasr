@@ -15,9 +15,7 @@ Even more so if we're talking about building a project in Rust.
 
 ![](http://img.shields.io/badge/-JavaScript-white?logo=javascript&style=flat&logoColor=black&color=F7DF1E)
 ![](http://img.shields.io/badge/-TypeScript-white?logo=typescript&style=flat&logoColor=white&color=3178C6)
-![](http://img.shields.io/badge/-Python-white?logo=python&style=flat&logoColor=white&color=3776AB)
 ![](http://img.shields.io/badge/-Rust-white?logo=rust&style=flat&logoColor=white&color=000000)
-![](http://img.shields.io/badge/-Java-white?logo=java&style=flat&logoColor=white&color=007396)<br>
 ![](http://img.shields.io/badge/-React-white?logo=react&style=flat&logoColor=black&color=61DAFB)
 ![](http://img.shields.io/badge/-React%20Native-white?logo=react&style=flat&logoColor=black&color=61DAFB)
 ![](http://img.shields.io/badge/-Docker-white?logo=docker&style=flat&logoColor=white&color=2496ED)
