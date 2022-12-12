@@ -2,7 +2,7 @@
 
 #### 📖 **Occupation**
 4th-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id). <br>
-Software Engineer intern at [Aksamedia](https://aksamedia.co.id/).
+Backend Engineer at [Aksamedia](https://aksamedia.co.id/).
 
 #### ❤️ **Likes**
 Open source, cats, green CI pipeline, and clean code bases.
