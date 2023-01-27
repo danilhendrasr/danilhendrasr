@@ -7,9 +7,8 @@ Backend Engineer at [Aksamedia](https://aksamedia.co.id/).
 #### ❤️ **Likes**
 Open source, cats, green CI pipeline, and clean code bases.
 
-### 👥 **Open to Collaboration**
-Just hit me up with ur idea, I love collaborating with people.<br>
-Even more so if we're talking about building a project in Rust.
+#### 👥 **Open to Collaboration**
+Just hit me up with ur idea, we'll see how to go about it.
 
 #### 🛠️ **Tools**
 
@@ -22,7 +21,13 @@ Even more so if we're talking about building a project in Rust.
 ![](http://img.shields.io/badge/-Next.js-white?logo=next.js&style=flat&logoColor=white&color=000000)<br>
 ![](http://img.shields.io/badge/-Docker-white?logo=docker&style=flat&logoColor=white&color=2496ED)
 
-#### 📫 **Hit me up at**
+#### ⚡ **Fun fact**
+
+I have made contributions to:
+- [Visual Studio Code](https://github.com/microsoft/vscode)
+- [Cargo](https://github.com/rust-lang/cargo)
+
+#### 📫 **Find me**
 
 [![](http://img.shields.io/badge/-Email-lightgrey?logo=gmail&style=flat&logoColor=white&color=D14836)](mailto:danilhendrasr@gmail.com)
 [![](http://img.shields.io/badge/-LinkedIn-lightgrey?logo=linkedin&style=flat&logoColor=white&color=0077B5)](https://linkedin.com/in/danilhendrasr) 
