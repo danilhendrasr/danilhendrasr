@@ -35,6 +35,11 @@ I have made contributions to:
 [![](http://img.shields.io/badge/-Leetcode-lightgrey?logo=leetcode&style=flat&logoColor=white&color=FFA116)](https://leetcode.com/danilhendrasr)
 [![](http://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&style=flat&logoColor=FC6D26&color=white)](https://gitlab.com/danilhendrasrn)
 
+> Note:<br>
+Any repo marked as archived are repos that I'm pretty sure I won't be touching again. Either I consider it done or some other things
+caused me to not touch it again. As for any other repo not marked as archived, there's a possibility I will do something new
+with them even if the last commit in that repo is years ago.
+
 <!--
 **danilhendras/danilhendras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
