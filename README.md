@@ -5,7 +5,7 @@
 Full-stack Engineer at [Selarastech](https://selarastech.com/).
 
 #### ❤️ **Likes**
-Open source, cats, green CI pipeline, and clean code bases.
+Open source, cats, green CI pipeline, and clean code bases (doesn't mean all my repo have clean code base tho :p).
 
 #### 👥 **Open to Collaboration**
 Just hit me up with ur idea, we'll see how to go about it.
