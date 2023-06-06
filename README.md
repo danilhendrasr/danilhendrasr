@@ -7,9 +7,6 @@ Full-stack Engineer at [Selarastech](https://selarastech.com/).
 #### ❤️ **Likes**
 Open source, cats, green CI pipeline, and clean code bases (doesn't mean all my repo have clean code base tho :p).
 
-#### 👥 **Open to Collaboration**
-Just hit me up with ur idea, we'll see how to go about it.
-
 #### 🛠️ **Tools**
 
 ![](http://img.shields.io/badge/-JavaScript-white?logo=javascript&style=flat&logoColor=black&color=F7DF1E)
@@ -20,12 +17,6 @@ Just hit me up with ur idea, we'll see how to go about it.
 ![](http://img.shields.io/badge/-React%20Native-white?logo=react&style=flat&logoColor=black&color=61DAFB)
 ![](http://img.shields.io/badge/-Next.js-white?logo=next.js&style=flat&logoColor=white&color=000000)<br>
 ![](http://img.shields.io/badge/-Docker-white?logo=docker&style=flat&logoColor=white&color=2496ED)
-
-#### ⚡ **Fun fact**
-
-I have made contributions to:
-- [Visual Studio Code](https://github.com/microsoft/vscode)
-- [Cargo](https://github.com/rust-lang/cargo)
 
 #### 📫 **Find me**
 
