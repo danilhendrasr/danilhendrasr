@@ -26,8 +26,6 @@ Open source, cats, green CI pipeline, and clean code bases (doesn't mean my repo
 [![](http://img.shields.io/badge/-Leetcode-lightgrey?logo=leetcode&style=flat&logoColor=white&color=FFA116)](https://leetcode.com/danilhendrasr)
 [![](http://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&style=flat&logoColor=FC6D26&color=white)](https://gitlab.com/danilhendrasrn)
 
-> **Note**:<br>
-Any repo marked as archived are repos that I'm pretty sure I won't be touching again. As for any other repo, there's a possibility I will do something new with them.
 
 <!--
 **danilhendras/danilhendras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
