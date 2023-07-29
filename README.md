@@ -26,6 +26,8 @@ Open source, cats, green CI pipeline, and clean code bases (doesn't mean my repo
 [![](http://img.shields.io/badge/-Leetcode-lightgrey?logo=leetcode&style=flat&logoColor=white&color=FFA116)](https://leetcode.com/danilhendrasr)
 [![](http://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&style=flat&logoColor=FC6D26&color=white)](https://gitlab.com/danilhendrasrn)
 
+#### ⚡ **Fun fact**
+I have this bad habit of stacking up ideas in my repo's issues page and then completely forgetting them.
 
 <!--
 **danilhendras/danilhendras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
