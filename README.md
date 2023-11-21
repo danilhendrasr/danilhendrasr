@@ -1,7 +1,6 @@
 # Hi, I'm Danil 👋
 
 #### 📖 **Occupation**
-4th-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id). <br>
 Full-stack Engineer at [Selarastech](https://selarastech.com/).
 
 #### ❤️ **Likes**
@@ -27,7 +26,8 @@ Open source, cats, green CI pipeline, and clean code bases (doesn't mean my repo
 [![](http://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&style=flat&logoColor=FC6D26&color=white)](https://gitlab.com/danilhendrasrn)
 
 #### ⚡ **Fun fact**
-I have this bad habit of stacking up ideas in my repo's issues page while thinking "I'll implement this when I have the time" and then proceeds to completely forgetting them.
+- Currently waiting for my graduation ceremony at [UPN Veteran Jawa Timur](https://upnjatim.ac.id).
+- Currently actively involved in [translating Rust's The Book to Indonesian](https://github.com/rustid/book-id).
 
 <!--
 **danilhendras/danilhendras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
