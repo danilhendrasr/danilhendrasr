@@ -7,7 +7,7 @@ Full-stack Engineer at [Selarastech](https://selarastech.com/).
 1. Cats
 2. Open source
 3. Rust
-4. Clean code bases (doesn't mean my repos are clean :p).
+4. Clean code bases (doesn't mean my repos are clean :p)
 
 #### 🛠️ **Tools**
 
