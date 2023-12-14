@@ -17,14 +17,6 @@ Open source, cats, green CI pipeline, and clean code bases (doesn't mean my repo
 ![](http://img.shields.io/badge/-Next.js-white?logo=next.js&style=flat&logoColor=white&color=000000)<br>
 ![](http://img.shields.io/badge/-Docker-white?logo=docker&style=flat&logoColor=white&color=2496ED)
 
-#### 📫 **Find me**
-
-[![](http://img.shields.io/badge/-Email-lightgrey?logo=gmail&style=flat&logoColor=white&color=D14836)](mailto:danilhendrasr@gmail.com)
-[![](http://img.shields.io/badge/-LinkedIn-lightgrey?logo=linkedin&style=flat&logoColor=white&color=0077B5)](https://linkedin.com/in/danilhendrasr) 
-[![](http://img.shields.io/badge/-Twitter-lightgrey?logo=twitter&style=flat&logoColor=white&color=0077B5)](https://twitter.com/danilhendrasr)
-[![](http://img.shields.io/badge/-Leetcode-lightgrey?logo=leetcode&style=flat&logoColor=white&color=FFA116)](https://leetcode.com/danilhendrasr)
-[![](http://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&style=flat&logoColor=FC6D26&color=white)](https://gitlab.com/danilhendrasrn)
-
 #### ⚡ **Fun fact**
 - Currently waiting for my graduation ceremony at [UPN Veteran Jawa Timur](https://upnjatim.ac.id).
 - Currently actively involved in [translating Rust's The Book to Indonesian](https://github.com/rustid/book-id).
