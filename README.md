@@ -14,11 +14,16 @@ Full-stack Engineer at [Selarastech](https://selarastech.com/).
 ![](http://img.shields.io/badge/-JavaScript-white?logo=javascript&style=flat&logoColor=black&color=F7DF1E)
 ![](http://img.shields.io/badge/-TypeScript-white?logo=typescript&style=flat&logoColor=white&color=3178C6)
 ![](http://img.shields.io/badge/-Rust-white?logo=rust&style=flat&logoColor=white&color=000000)
-![](http://img.shields.io/badge/-Go-white?logo=go&style=flat&logoColor=white&color=00ADD8)<br>
+![](http://img.shields.io/badge/-Go-white?logo=go&style=flat&logoColor=white&color=00ADD8)
+![](http://img.shields.io/badge/-PHP-white?logo=php&style=flat&logoColor=white&color=777BB4)
+<br>
 ![](http://img.shields.io/badge/-React-white?logo=react&style=flat&logoColor=black&color=61DAFB)
 ![](http://img.shields.io/badge/-React%20Native-white?logo=react&style=flat&logoColor=black&color=61DAFB)
-![](http://img.shields.io/badge/-Next.js-white?logo=next.js&style=flat&logoColor=white&color=000000)<br>
+![](http://img.shields.io/badge/-Next.js-white?logo=next.js&style=flat&logoColor=white&color=000000)
+<br>
+![](http://img.shields.io/badge/-PostgreSQL-white?logo=postgresql&style=flat&logoColor=white&color=4169E1)
 ![](http://img.shields.io/badge/-Docker-white?logo=docker&style=flat&logoColor=white&color=2496ED)
+
 
 #### ⚡ **Fun fact**
 - Currently waiting for my graduation ceremony at [UPN Veteran Jawa Timur](https://upnjatim.ac.id).
