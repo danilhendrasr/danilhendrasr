@@ -25,10 +25,6 @@ Full-stack Engineer at [Selarastech](https://selarastech.com/).
 ![](http://img.shields.io/badge/-Docker-white?logo=docker&style=flat&logoColor=white&color=2496ED)
 
 
-#### ⚡ **Fun fact**
-- Currently waiting for my graduation ceremony at [UPN Veteran Jawa Timur](https://upnjatim.ac.id).
-- Currently actively involved in [translating Rust's The Book to Indonesian](https://github.com/rustid/book-id).
-
 <!--
 **danilhendras/danilhendras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
