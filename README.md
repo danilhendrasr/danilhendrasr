@@ -1,7 +1,7 @@
 # Hi, I'm Danil 👋
 
 #### 📖 **Occupation**
-Full-stack Engineer at [Speechify](https://speechify.com/).
+Software Engineer at [Speechify](https://speechify.com/).
 
 #### ❤️ **Likes**
 1. Cats
